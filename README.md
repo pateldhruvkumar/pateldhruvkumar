@@ -64,3 +64,28 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pateldhruvkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
+
+## 🚀 Latest Projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| 🌊 **[seaweed-industry](https://github.com/pateldhruvkumar/seaweed-industry)** · [live ↗](https://seaweed-industry.vercel.app) | 13-tab market-intelligence dashboard over 33K+ FAO/StatCan records, with a Text-to-SQL AI assistant | ![React](https://img.shields.io/badge/React-1a1b27?logo=react&logoColor=7aa2f7) ![FastAPI](https://img.shields.io/badge/FastAPI-1a1b27?logo=fastapi&logoColor=7aa2f7) ![DuckDB](https://img.shields.io/badge/DuckDB-1a1b27?logo=duckdb&logoColor=7aa2f7) |
+| 🏥 **[ehealth](https://github.com/pateldhruvkumar/ehealth)** | Secure Electronic Health Records platform — Postgres Row Level Security as the security boundary, QR-code record sharing | ![Next.js](https://img.shields.io/badge/Next.js-1a1b27?logo=nextdotjs&logoColor=7aa2f7) ![Supabase](https://img.shields.io/badge/Supabase-1a1b27?logo=supabase&logoColor=7aa2f7) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?logo=postgresql&logoColor=7aa2f7) |
+| 📦 **[end-to-end-e-commerce](https://github.com/pateldhruvkumar/end-to-end-e-commerce)** | 100K-record Olist logistics pipeline → Supabase Postgres → Excel What-If model → Power BI star schema | ![Python](https://img.shields.io/badge/Python-1a1b27?logo=python&logoColor=7aa2f7) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1b27?logo=postgresql&logoColor=7aa2f7) ![Power BI](https://img.shields.io/badge/Power%20BI-1a1b27?logoColor=7aa2f7) |
+| 🎭 **[transformer-microservice-gcp](https://github.com/pateldhruvkumar/transformer-microservice-gcp)** | From-scratch PyTorch transformer (4.86M params) served as a REST microservice on Cloud Run | ![PyTorch](https://img.shields.io/badge/PyTorch-1a1b27?logo=pytorch&logoColor=7aa2f7) ![Docker](https://img.shields.io/badge/Docker-1a1b27?logo=docker&logoColor=7aa2f7) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1a1b27?logo=googlecloud&logoColor=7aa2f7) |
+| ⚡ **[bigdata-final-project](https://github.com/pateldhruvkumar/bigdata-final-project)** | Event-driven serverless ETL — S3 upload → Lambda → Glue/Spark → DynamoDB, 5.6M records in one run | ![AWS](https://img.shields.io/badge/AWS-1a1b27?logo=amazonwebservices&logoColor=7aa2f7) ![AWS Lambda](https://img.shields.io/badge/Lambda-1a1b27?logo=awslambda&logoColor=7aa2f7) ![Apache Spark](https://img.shields.io/badge/Spark-1a1b27?logo=apachespark&logoColor=7aa2f7) |
+| 🤖 **[agentic-kahoot-2.0](https://github.com/pateldhruvkumar/agentic-kahoot-2.0)** | Agentic quiz bot joining live games — 🥈 2nd of 15+ teams at Northeastern's Agentic AI 2.0 Hackathon | ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?logo=javascript&logoColor=7aa2f7) ![Puppeteer](https://img.shields.io/badge/Puppeteer-1a1b27?logo=puppeteer&logoColor=7aa2f7) ![n8n](https://img.shields.io/badge/n8n-1a1b27?logo=n8n&logoColor=7aa2f7) |
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pateldhruvkumar/pateldhruvkumar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pateldhruvkumar/pateldhruvkumar/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pateldhruvkumar/pateldhruvkumar/output/github-snake-dark.svg" alt="contribution snake" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b27&height=120&section=footer" width="100%" alt="footer" />
