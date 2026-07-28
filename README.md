@@ -57,11 +57,11 @@
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pateldhruvkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://streak-stats.demolab.com?user=pateldhruvkumar&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pateldhruvkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pateldhruvkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldhruvkumar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" />
 
 </div>
 
