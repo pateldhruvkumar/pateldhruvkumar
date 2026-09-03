@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **MPS in Data Analytics (AI/ML concentration):** Northeastern University, Vancouver · Class of 2026
+- 🎓 **MS in Data Analytics (AI/ML concentration):** Northeastern University, Vancouver · Class of 2026
 - 💼 Previously **Software Developer @ Vault AI: ** built an AI-powered client-intake portal for private credit firms, secure RAG pipelines over 100+ confidential documents, and QLoRA-fine-tuned Llama models
 - 📊 Also **Operations Data Assistant @ Northeastern University:** MySQL + Power BI reporting and data integrity for campus operations
 - 🌊 Currently building the **[Seaweed Market Intelligence Dashboard](https://seaweed-industry.vercel.app)** — a live 13-tab analytics platform with a Text-to-SQL AI assistant
