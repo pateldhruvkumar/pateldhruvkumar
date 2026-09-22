@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7aa2f7,100:bb9af7&height=210&section=header&text=Dhruvkumar%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%C2%B7%20AI%2FML%20%C2%B7%20Data&descAlignY=52&descSize=18" width="100%" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Software+Developer;AI%2FML+Engineer;Data+Analyst;Full-Stack+Developer" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Data Analyst;AI%2FData Engineer" alt="typing animation" />
 
 <br/>
 
