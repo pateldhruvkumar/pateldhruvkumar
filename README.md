@@ -64,7 +64,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pateldhruvkumar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pateldhruvkumar&theme=tokyonight" width="95%" alt="Contribution activity graph" />
 
 </div>
 
